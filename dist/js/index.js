@@ -94,4 +94,4 @@ function successCb(data){
     bindTouch(); 
 }
 
-getData("/mock/data.json",successCb)
+getData("../mock/data.json",successCb)
